@@ -22,4 +22,4 @@ reset()
 
 ## License
 
-(MIT)[LICENSE]
+[MIT](LICENSE)
