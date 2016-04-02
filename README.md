@@ -5,6 +5,12 @@ Renders all needed styles after rendering react and resets it's cache. You can a
 
 > react-look is a peer-dependency!
 
+## Installation
+
+```
+npm install react-look-server-rendering --save
+```
+
 ## Usage
 
 ```js
