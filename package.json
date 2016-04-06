@@ -1,6 +1,6 @@
 {
 	"name": "react-look-server-rendering",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "React-Look extension to render styles optimized on the server-side",
 	"main": "lib/index.js",
 	"scripts": {
@@ -34,7 +34,7 @@
 	},
 	"homepage": "https://github.com/dustin-H/react-look-server-rendering#readme",
   "peerDependencies": {
-    "react-look": "1.0.0-beta7"
+    "react-look": "^1.0.0-beta8"
   },
 	"devDependencies": {
 		"babel-cli": "^6.6.5",
